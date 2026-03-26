@@ -1,4 +1,2 @@
 # testing
-two
-test
-three
+one
