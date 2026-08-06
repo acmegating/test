@@ -1,1 +1,2 @@
-error: true
+- job:
+    error: true
